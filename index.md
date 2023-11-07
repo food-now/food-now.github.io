@@ -12,3 +12,7 @@ Food Now is an _______.
 ## Team
 
 Food Now is designed, implemented, and maintained by (Insert Names + github links here).
+
+## Contract
+
+
