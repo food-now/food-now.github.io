@@ -7,6 +7,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 github:
   is_project_page: true
-  repository_url: https://github.com/food-now/food-now.github.io
+  repository_url: https://food-now.github.io
 gems:
   - jekyll-mentions
