@@ -4,6 +4,7 @@
 
 * [Overview](#overview)
 * [Mock-Ups](#mock-ups)
+* [Checklist](#checklist)
 * [Team](#team)
 
 ## Overview
@@ -18,6 +19,25 @@ Food Now enables users to log in with their UH emails and:
 * Locate eateries with a top-down view of the UH Manoa campus highlighting the location of the desired eatery.   
 
 ## Mock-Ups 
+
+Our Moc-up design includes 3 pages: 
+
+**Landing Page**
+
+**Sign In & Sign Up Page**
+
+**Vendor Page**
+
+## Checklist
+
+- [ ] Landing Page
+- [ ] Sign In/Sign Up Page
+- [ ] Vendor Page
+- [ ] Admin Page
+- [ ] Logo
+- [ ] MongoDB for storing/retrieving information
+- [ ] Making a map with "pins" at eatery locations
+- [ ] Deployment
 
 ## Team
 
