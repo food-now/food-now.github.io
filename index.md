@@ -7,6 +7,8 @@
 
 ## Overview
 
+![Logo](/PDF-Folder/Food_Now_Logo_1.png)
+
 Food Now is a web application to help find a place to eat on campus! With the multitude of options offered here at UH Manoa, choosing may be difficult. 
 
 Food Now enables users to log in with their UH emails and:
@@ -39,7 +41,7 @@ Our Mock-up design includes 3 pages:
 | ![Sign in Page](/PDF-Folder/vendorpagemock.png)  | 
 
 ## Checklist
-
+- [X] Mock-Ups
 - [ ]   Landing Page
 - [ ]   Sign In/Sign Up Page
 - [ ]   Vendor Page
