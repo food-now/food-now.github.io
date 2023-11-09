@@ -13,7 +13,8 @@ Food Now is a web application to help find a place to eat on campus! With the mu
 
 Food Now enables users to log in with their UH emails and:
 * Search for eateries based on a list of categories
-* Locate eateries with a top-down view of the UH Manoa campus highlighting the location of the desired eatery.   
+* Locate eateries with a top-down view of the UH Manoa campus highlighting the location of the desired eatery.
+* Provide a star rating for an eatery
 * If given enough time, users will be able to discover menu items at specific eateries
   * View the price of each item
   * Add items to a "cart" that tracks all items added and the total cost before arrival
