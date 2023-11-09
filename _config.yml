@@ -1,4 +1,5 @@
-title: Food Now
+name: Food Now
+title: null
 description: A web application for finding your favorite places to eat!
 google_analytics:
 show_downloads: false
