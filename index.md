@@ -22,7 +22,13 @@ Food Now enables users to log in with their UH emails and:
 
 ## Mock-Ups 
 
-Our Mock-up design includes 3 pages: 
+Our Mock-up design includes 4 pages: 
+
+**User Home Page**
+
+| User Home Page                                      | 
+|-----------------------------------------------------|
+| ![Sign in Page](/PDF-Folder/UserHomePage.png) | 
 
 **Landing Page**
 
