@@ -61,6 +61,11 @@ Our Mock-up design includes 4 pages:
 - [ ]   Making a map with "pins" at eatery locations
 - [ ]   Deployment
 
+## M1 Board
+| ----------------------------------- |
+| ![Sign in Page](/PDF-Folder/m1.png)  | 
+
+
 ## Team
 
 Food Now is designed, implemented, and maintained by [Liam Tapper](https://github.com/tliam1), [Kai Matsuska](https://github.com/kairemUH), [Connor Narowetz](https://github.com/kairemUH), [Jonah Lene](https://github.com/jonahlene), [Joshua Lorica](https://github.com/loricaj), and [Gavyn Gostage](https://github.com/gavyngostage).
