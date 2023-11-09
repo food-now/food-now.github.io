@@ -24,6 +24,11 @@ Our Mock-up design includes 3 pages:
 
 **Sign In & Sign Up Page**
 
+| Sign In                             | Sign Up                             |
+| ----------------------------------- | ----------------------------------- |
+| ![Sign in Page](/PDF-Folder/SignIn-mockup.png)  | ![Sign up Page](/PDF-Folder/SignUp-mockup.png)  |
+
+
 **Vendor Page**
 
 ## Checklist
