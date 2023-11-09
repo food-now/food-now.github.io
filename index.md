@@ -62,7 +62,8 @@ Our Mock-up design includes 4 pages:
 - [ ]   Deployment
 
 ## M1 Board
-![Sign in Page](/PDF-Folder/m1.png)
+
+![Sign in Page](/PDF-Folder/m1new.png)
 
 
 ## Team
