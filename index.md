@@ -65,7 +65,8 @@ Our Mock-up design includes 4 pages:
 
 Food Now is designed, implemented, and maintained by [Liam Tapper](https://github.com/tliam1), [Kai Matsuska](https://github.com/kairemUH), [Connor Narowetz](https://github.com/kairemUH), [Jonah Lene](https://github.com/jonahlene), [Joshua Lorica](https://github.com/loricaj), and [Gavyn Gostage](https://github.com/gavyngostage).
 
-[Team Contract](https://github.com/food-now/food-now.github.io/blob/b8e72eb11ee5c67fb3f4d7d08c6871e3282a7ca7/PDF-Folder/Contract.pdf)
+[Team Contract](https://github.com/food-now/food-now.github.io/blob/b8e72eb11ee5c67fb3f4d7d08c6871e3282a7ca7/PDF-Folder/Contract.pdf) 
+<br>
 [Milestone 1](https://github.com/orgs/food-now/projects/1)
 
 
