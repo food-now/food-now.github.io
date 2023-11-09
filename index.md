@@ -34,6 +34,7 @@ Our Moc-up design includes 3 pages:
 - [ ] Sign In/Sign Up Page
 - [ ] Vendor Page
 - [ ] Admin Page
+- [ ] Cart Page
 - [ ] Logo
 - [ ] MongoDB for storing/retrieving information
 - [ ] Making a map with "pins" at eatery locations
