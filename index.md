@@ -1,5 +1,3 @@
-# Food Now
-
 ## Table of contents
 
 * [Overview](#overview)
