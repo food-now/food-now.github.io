@@ -65,6 +65,49 @@ Our Mock-up design includes 4 pages:
 
 ![Sign in Page](/PDF-Folder/m1new.png)
 
+## Backend Design
+
+This section encompasses the organization of the backend databases and associated functionality.
+
+**Users**
+
+Three roles: admin, vendor, and customer.
+
+User must be either in admin, vendor, or customer role.
+No default role. If user is not in one of these roles, then they won’t get any published data from anything.
+Vendors must have a profile picture. Other roles do not have one.
+
+**Databases**
+
+menuItems: collection of menuItems.
+- Issue: Both customers and vendors will need to subscribe to their respective menuItems publications. We need to limit this to where customers get served the data, but cannot write back, and for vendors they can do both. Not exactly sure how to do this with Meteor publications.
+
+Example menuItem:
+
+{
+	_id: String;
+
+	owner: String;
+
+	dateCreated: Date;
+
+	vendorName: “McDonalds”;
+
+	name: “Big Mac”;
+
+	price: 6.3;
+
+	allergens: [tree nuts, gluten, dairy];
+
+	daysOfWeekAvaliable: [m, t, w, th, f];
+
+	special: false;
+
+	specialDate: Date (optional. Should only be set if item is a special. This indicates the day that it is going to be available.)
+
+	image: String (optional);
+}
+
 
 ## Team
 
