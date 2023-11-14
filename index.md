@@ -83,7 +83,7 @@ menuItems: collection of menuItems.
 - Issue: Both customers and vendors will need to subscribe to their respective menuItems publications. We need to limit this to where customers get served the data, but cannot write back, and for vendors they can do both. Not exactly sure how to do this with Meteor publications.
 
 Example menuItem:
-
+```
 {
 	_id: String;
 
@@ -107,7 +107,7 @@ Example menuItem:
 
 	image: String (optional);
 }
-
+```
 
 ## Team
 
