@@ -77,6 +77,20 @@ User must be either in admin, vendor, or customer role.
 No default role. If user is not in one of these roles, then they won’t get any published data from anything.
 Vendors must have a profile picture. Other roles do not have one.
 
+Customer:
+- sign up on sign up page
+
+Vendor:
+- sign up is on a page that only admins can access. Admins can create a vendor user.
+- Vendor user can create a vendor.
+- Vendor user can create menuItems.
+
+Admin:
+- Admin has an sign up admin page where they can create customer, vendor, or admin users.
+- Admin has a users page that displays all accounts and their roles.
+- Admin can remove accounts (can be its own page or implemented into the users page).
+
+
 **Databases**
 
 menuItems: collection of menuItems.
