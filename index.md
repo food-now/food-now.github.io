@@ -50,6 +50,12 @@ Our Mock-up design includes 4 pages:
 | ----------------------------------- |
 | ![Sign in Page](/PDF-Folder/vendorpagemock.png)  | 
 
+**Add Vendor Item Page**
+
+| Add Vendor Item Page | 
+| ----------------------------------- |
+| ![Item Add Page](/PDF-Folder/AddStuffPageMockUp.JPG)  | 
+
 **Admin Exclusive**
 
 | Add Users | 
