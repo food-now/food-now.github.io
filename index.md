@@ -34,8 +34,8 @@ Our Mock-up design includes 4 pages:
 
 | Landing Page | 
 | ----------------------------------- |
-| ![Sign in Page](/PDF-Folder/Landingpage1.png) |
-| ![Sign up Page](/PDF-Folder/Landingpage1-2.png) |
+| ![Sign in Page](/PDF-Folder/LandingPage1.png) |
+| ![Sign up Page](/PDF-Folder/LandingPage2.png) |
 
 **Sign In & Sign Up Page**
 
