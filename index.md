@@ -49,6 +49,13 @@ Our Mock-up design includes 4 pages:
 | ----------------------------------- |
 | ![Sign in Page](/PDF-Folder/vendorpagemock.png)  | 
 
+**Admin Exclusive**
+
+| Add Users | 
+| ----------------------------------- |
+| ![Sign in Page](/PDF-Folder/add-user.png)  | 
+| ![Sign in Page](/PDF-Folder/add-customer.png)  | ![Sign up Page](/PDF-Folder/add-vendor.png)  | ![Sign up Page](/PDF-Folder/add-admin.png)  |
+
 ## Checklist
 - [X] Mock-Ups
 - [ ]   Landing Page
