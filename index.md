@@ -43,6 +43,10 @@ Our Mock-up design includes 4 pages:
 | ----------------------------------- | ----------------------------------- |
 | ![Sign in Page](/PDF-Folder/SignIn-mockup.png)  | ![Sign up Page](/PDF-Folder/SignUp-mockup.png)  |
 
+**User Profile Page**
+| ----------------------------------- |
+| ![User Profile Page Image](/PDF-Folder/UserProfilePage.png)  |
+
 
 **Vendor Page**
 
@@ -69,9 +73,9 @@ Our Mock-up design includes 4 pages:
 - [X] Mock-Ups
 - [X]   Landing Page
 - [X]   Sign In/Sign Up Page
-- [ ]   Vendor Page
+- [X]   Vendor Page
 - [X]   Admin Page
-- [ ]   Cart Page
+- []   Cart Page
 - [X]   Logo
 - [ ]   MongoDB for storing/retrieving information
 - [ ]   Making a map with "pins" at eatery locations
