@@ -59,11 +59,11 @@ Our Mock-up design includes 4 pages:
 ## Checklist
 - [X] Mock-Ups
 - [ ]   Landing Page
-- [ ]   Sign In/Sign Up Page
+- [X]   Sign In/Sign Up Page
 - [ ]   Vendor Page
-- [ ]   Admin Page
+- [X]   Admin Page
 - [ ]   Cart Page
-- [ ]   Logo
+- [X]   Logo
 - [ ]   MongoDB for storing/retrieving information
 - [ ]   Making a map with "pins" at eatery locations
 - [ ]   Deployment
