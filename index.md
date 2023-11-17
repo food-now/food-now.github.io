@@ -43,10 +43,6 @@ Our Mock-up design includes 4 pages:
 | ----------------------------------- | ----------------------------------- |
 | ![Sign in Page](/PDF-Folder/SignIn-mockup.png)  | ![Sign up Page](/PDF-Folder/SignUp-mockup.png)  |
 
-**User Profile Page**
-| ----------------------------------- |
-| ![User Profile Page Image](/PDF-Folder/UserProfilePage.png)  |
-
 
 **Vendor Page**
 
@@ -69,16 +65,17 @@ Our Mock-up design includes 4 pages:
 | ![Sign up Page](/PDF-Folder/add-vendor.png)  |
 | ![Sign up Page](/PDF-Folder/add-admin.png)  |
 
+**User Profile Page**
+| ![User Profile Page Image](/PDF-Folder/UserProfilePage.png)  |
+
 ## Checklist
 - [X] Mock-Ups
 - [X]   Landing Page
 - [X]   Sign In/Sign Up Page
 - [X]   Vendor Page
 - [X]   Admin Page
-- []   Cart Page
 - [X]   Logo
-- [ ]   MongoDB for storing/retrieving information
-- [ ]   Making a map with "pins" at eatery locations
+- [X]   MongoDB for storing/retrieving information
 - [X]   Deployment
 
 ## M1 Board
