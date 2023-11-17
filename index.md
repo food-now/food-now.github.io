@@ -4,6 +4,7 @@
 * [Mock-Ups](#mock-ups)
 * [Checklist](#checklist)
 * [Team](#team)
+* [Deployment](#deployment)
 
 ## Overview
 
@@ -149,6 +150,10 @@ Food Now is designed, implemented, and maintained by [Liam Tapper](https://githu
 
 [Team Contract](https://github.com/food-now/food-now.github.io/blob/b8e72eb11ee5c67fb3f4d7d08c6871e3282a7ca7/PDF-Folder/Contract.pdf) 
 <br>
+
+##Deployment
+
+[Site](http://67.205.186.185/)
 [Milestone 1](https://github.com/orgs/food-now/projects/1)
 <br>
 [Milestone 2](https://github.com/orgs/food-now/projects/2)
