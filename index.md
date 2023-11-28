@@ -3,7 +3,7 @@
 * [Overview](#overview)
 * [Mock-Ups](#mock-ups)
 * [Checklist](#checklist)
-* [Backend Design](#backend)
+* [Backend Design](#backend-design)
 * [Team](#team)
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
