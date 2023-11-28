@@ -3,8 +3,10 @@
 * [Overview](#overview)
 * [Mock-Ups](#mock-ups)
 * [Checklist](#checklist)
+* [Backend Design](#backend)
 * [Team](#team)
 * [Deployment](#deployment)
+* [User Guide](#user-guide)
 
 ## Overview
 
@@ -78,6 +80,36 @@ Our Mock-up design includes 4 pages:
 - [X]   Logo
 - [X]   MongoDB for storing/retrieving information
 - [X]   Deployment
+
+## User Guide
+
+This section provides an explination of the current features Food Now provides to our users.
+
+When a user first visits our site, they will be met with the **landing page**: 
+![Landing Page](/PDF-Folder/LandingPage1.png)
+
+Here you can login in the top right. Alternatively you can scroll down to find our list of vendors, view our map of vendors on and around campus, or if you're in the mood for a specific type of food you can even check out the different cuisine types we offer.
+
+![Landing Page](/PDF-Folder/LandingPage2.png)
+
+When you click Login in the top right, you will be directed to our **Login Page** where you can either login with an existing account or register for a new one:
+
+| Sign In                             | Sign Up                             |
+| ----------------------------------- | ----------------------------------- |
+| ![Sign in Page](/PDF-Folder/SignIn-mockup.png)  | ![Sign up Page](/PDF-Folder/SignUp-mockup.png)  |
+
+Upon succesfully loging in, you currently will have access to two tabs. The first is called **Add Item**:
+
+![Landing Page](/PDF-Folder/Add-Item.png)
+
+The add item page allows you to select <!-- LIAM EXPLAIN THAT SHTTTTT -->
+
+The other page you will currently have access to is the **Vendors and Items** page:
+
+![Landing Page](/PDF-Folder/Vendors-Items.png)
+
+This page should be the main focus for most of our site user. Through here, you will have access to our full list of vendors. Each vendor will display its name, address, contact info, menu items, as well as a link to their site. You will be able to sort through our many options with provided filters. On the far right side of the page we also provide a map of campus that display all vendors in and around UH Manoa.
+
 
 ## M1 Board
 
