@@ -123,20 +123,22 @@ First you will want to visit our github page at [Food Now Github](https://github
 Once you have it opened you're going to want to CD into the app directory and run 'meteor npm install'.
 After this finishes you can then run 'meteor run start' to launch the site on your local host.
 
-Now that you have the site up and running, you can view the previous [Developer Guide](#developer-guide) for insight on what you can do as a regular customer on this sight. But since we already covered that, we will now move onto what admins have access to.
+Now that you have the site up and running, you can view the previous [User Guide](#user-guide) for insight on what you can do as a regular customer. But since we already covered that, we will now move onto what admins have access to.
 
 After loging in as an admin (*credintials for respective accounts can be found in app/config/settings.development.json*) you will be routed to this page: 
+
 ![Admin Landing](/PDF-Folder/Admin-Landing.png)
 
 As you can see, admins have access to two pages that regular customers do not: **All Users** and **Add Users**. First we will explore the **All Users** page:
+
 ![All Users](/PDF-Folder/All-Users.png)
 
 This page allows admins to browse through the lists of users for each user type. The three different types being: Vedors, Customers, and Admins.
 
 The next page currently available for admins is the **Add Users** page:
-| ![Sign in Page](/PDF-Folder/add-customer.png)  |
-| ![Sign up Page](/PDF-Folder/add-vendor.png)  |
-| ![Sign up Page](/PDF-Folder/add-admin.png)  |
+![Sign in Page](/PDF-Folder/add-customer.png)  
+![Sign up Page](/PDF-Folder/add-vendor.png)  
+![Sign up Page](/PDF-Folder/add-admin.png)  
 
 This page will allow you too add users. The input fields will also change depending on the type of user you are trying to create.
 
