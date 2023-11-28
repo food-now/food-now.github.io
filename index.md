@@ -140,7 +140,7 @@ The next page currently available for admins is the **Add Users** page:
 ![Sign up Page](/PDF-Folder/add-vendor.png)  
 ![Sign up Page](/PDF-Folder/add-admin.png)  
 
-This page will allow you too add users. The input fields will also change depending on the type of user you are trying to create.
+This page will allow you too add users. The input fields will change depending on the type of user you are trying to create.
 
 ## M1 Board
 
