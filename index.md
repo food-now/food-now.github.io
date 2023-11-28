@@ -2,8 +2,7 @@
 <br>
 ## Table of contents
 
-* [Overview](#overview)
-* [Mock-Ups](#mock-ups)
+* [Overview](#overview) <!-- * [Mock-Ups](#mock-ups) -->
 * [Checklist](#checklist)
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
@@ -26,7 +25,7 @@ Food Now enables users to log in with their UH emails and:
   * View the price of each item
   * Add items to a "cart" that tracks all items added and the total cost before arrival
 
-
+<!--
 ## Mock-Ups 
 
 Our Mock-up design includes 4 pages: 
@@ -74,6 +73,8 @@ Our Mock-up design includes 4 pages:
 
 **User Profile Page**
 | ![User Profile Page Image](/PDF-Folder/UserProfilePage.png)  |
+
+-->
 
 ## Checklist
 - [X] Mock-Ups
