@@ -114,6 +114,21 @@ This page should be the main focus for most of our site's users. Through here, y
 
 ## Developer Guide
 
+There are many features of our site that are only available for developers. This section aims to provide a step by step guide for downloading, installing, running, and operating Food Now.
+
+First you will want to visit our github page at [Food Now Github](https://github.com/food-now/MM). Here you can clone our main branch onto your local machine and open using your favorite IDE. 
+
+*We reccomend Intellij*
+
+Once you have it opened you're going to want to CD into the app directory and run 'meteor npm install'.
+After this finishes you can then run 'meteor run start' to launch the site on your local host.
+
+Now that you have the site up and running, you can view the previous [Developer Guide](#developer-guide) for insight on what you can do as a regular customer on this sight. But since we already covered that, we will now move onto what admins have access to.
+
+After loging in as an admin (*credintials for respective accounts can be found in app/config/settings.development.json*) you will be routed to this page: ![Admin Landing](/PDF-Folder/Admin-Landing.png)
+
+As you can see, admins have access to two pages that regular customers do not. First we will explore the 
+
 
 ## M1 Board
 
