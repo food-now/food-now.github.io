@@ -3,10 +3,12 @@
 * [Overview](#overview)
 * [Mock-Ups](#mock-ups)
 * [Checklist](#checklist)
+* [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
 * [Backend Design](#backend-design)
 * [Team](#team)
 * [Deployment](#deployment)
-* [User Guide](#user-guide)
+
 
 ## Overview
 
@@ -108,7 +110,9 @@ The other page you will currently have access to is the **Vendors and Items** pa
 
 ![Landing Page](/PDF-Folder/Vendors-Items.png)
 
-This page should be the main focus for most of our site user. Through here, you will have access to our full list of vendors. Each vendor will display its name, address, contact info, menu items, as well as a link to their site. You will be able to sort through our many options with provided filters. On the far right side of the page we also provide a map of campus that display all vendors in and around UH Manoa.
+This page should be the main focus for most of our site's users. Through here, you will have access to our full list of vendors. Each vendor will display its name, address, contact info, menu items, as well as a link to their site. You will be able to sort through our many options with provided filters on the left. On the far right side of the page we also provide a map of campus that display all vendors in and around UH Manoa.
+
+## Developer Guide
 
 
 ## M1 Board
@@ -182,6 +186,8 @@ Food Now is designed, implemented, and maintained by [Liam Tapper](https://githu
 [Milestone 1](https://github.com/orgs/food-now/projects/1)
 <br>
 [Milestone 2](https://github.com/orgs/food-now/projects/2)
+<br>
+[Milestone 3](https://github.com/orgs/food-now/projects/3)
 
 ## Deployment
 
