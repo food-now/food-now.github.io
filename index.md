@@ -1,5 +1,6 @@
 # Food Now #
-<br>
+<br />
+
 ## Table of contents
 
 * [Overview](#overview) <!-- * [Mock-Ups](#mock-ups) -->
@@ -107,7 +108,9 @@ Upon succesfully loging in, you currently will have access to two tabs. The firs
 
 ![Landing Page](/PDF-Folder/Add-Item.png)
 
-The add item page allows you to select <!-- LIAM EXPLAIN THAT SHTTTTT -->
+The add item page allows you to assign menu items to a vendor. On this page, users can select the price and name (required). As well as, selecting if the item is a part of a limited time special and an image for the food item (optional). Entries to the database will appear on the vendor info page. 
+
+Currently, this page is accessable to everyone regardless of their account status, but will be limited to admins and customers in the future.
 
 The other page you will currently have access to is the **Vendors and Items** page:
 
@@ -119,12 +122,23 @@ This page should be the main focus for most of our site's users. Through here, y
 
 There are many features of our site that are only available for developers. This section aims to provide a step by step guide for downloading, installing, running, and operating Food Now.
 
-First you will want to visit our github page at [Food Now Github](https://github.com/food-now/MM). Here you can clone our main branch onto your local machine and open using your favorite IDE. 
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, you will want to visit our github page at [Food Now Github](https://github.com/food-now/MM). Here you can clone our main branch onto your local machine and open using your favorite IDE. 
 
 *We reccomend Intellij*
 
-Once you have it opened you're going to want to CD into the app directory and run 'meteor npm install'.
-After this finishes you can then run 'meteor run start' to launch the site on your local host.
+Once you have it opened you're going to want to CD into the app directory and run
+```
+$ meteor npm install
+```
+After this finishes you can then run 
+```
+$ meteor npm run start
+```
+to launch the site on your local host.
+
+This may take some time!
 
 Now that you have the site up and running, you can view the previous [User Guide](#user-guide) for insight on what you can do as a regular customer. But since we already covered that, we will now move onto what admins have access to.
 
