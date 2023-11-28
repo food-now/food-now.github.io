@@ -161,7 +161,15 @@ This page will allow you too add users. The input fields will change depending o
 
 ## M1 Board
 
-![Sign in Page](/PDF-Folder/m1new.png)
+![M1](/PDF-Folder/m1new.png)
+
+## M2 Board
+
+![M2](/PDF-Folder/M2_Board.png)
+
+## M3 Board
+
+![M2](/PDF-Folder/M3_Board.png)
 
 ## Backend Design
 
