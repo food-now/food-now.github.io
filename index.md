@@ -10,7 +10,7 @@
 * [Backend Design](#backend-design)
 * [Team](#team)
 * [Deployment](#deployment)
-* [Continuous Deployment](#continuous-deployment)
+* [Continuous Integration](#continuous-integration)
 
 
 ## Overview
@@ -246,7 +246,7 @@ Food Now is designed, implemented, and maintained by [Liam Tapper](https://githu
 
 [Site](http://67.205.186.185/)
 
-## Continuous Deployment
+## Continuous Integration
 
 [![ci-foodnow-build](https://github.com/food-now/MM/actions/workflows/ci.yml/badge.svg)](https://github.com/food-now/MM/actions/workflows/ci.yml)
 
