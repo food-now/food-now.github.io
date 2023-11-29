@@ -162,15 +162,15 @@ This page will allow you too add users. The input fields will change depending o
 
 ## M1 Board
 
-![M1](/PDF-Folder/m1new.png)
+![M1](/PDF-Folder/m1-board.png)
 
 ## M2 Board
 
-![M2](/PDF-Folder/M2_Board.png)
+![M2](/PDF-Folder/m2-board.png)
 
 ## M3 Board
 
-![M2](/PDF-Folder/M3_Board.png)
+![M2](/PDF-Folder/m3-board.png)
 
 ## Backend Design
 
