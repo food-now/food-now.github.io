@@ -233,7 +233,28 @@ Example menuItem:
 
 ## Community Feedback
 
+Positive Feedback:
 
+- Ease of Use: Users found the website intuitive and easy to navigate, making ordering food a breeze.
+- Restaurant Selection: The diverse range of restaurants offered on the site was highly appreciated, providing users with ample options.
+- Features: The "explore" feature was particularly helpful for discovering new and exciting restaurants around campus.
+- Mobile-Friendly: Users praised the website's seamless responsiveness on mobile devices, offering a convenient experience on the go.
+  
+Areas for Improvement:
+
+- Search Filters: Some users suggested enhancing the search functionality by incorporating more specific filters, such as cuisine or dietary restrictions, to refine their restaurant searches.
+- Time Estimates: Providing estimated food acquiring times would enhance transparency and allow users to plan their meals effectively.
+- Restaurant Reviews: Increasing the number of reviews and ratings for restaurants would offer valuable insights to users and facilitate informed decisions.
+- Social Features: Implementing social features like order sharing with friends would foster a sense of community and encourage social interaction among users.
+
+Additional Comments:
+
+Expanding the restaurant selection to include options farther off-campus would significantly broaden user appeal and cater to a wider audience.
+Integrating features like pre-ordering food for pickup would provide an added level of convenience for users who prefer to collect their orders themselves.
+
+Overall:
+
+The community feedback for the Food Explorer website is overwhelmingly positive, highlighting its user-friendly design, comprehensive restaurant selection, and helpful features. Addressing the suggested areas for improvement would further enhance the user experience and solidify the website as a valuable resource for students seeking convenient and diverse dining options.
 
 ## Team
 
