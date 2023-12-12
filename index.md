@@ -20,13 +20,15 @@
 
 Food Now is a web application to help find a place to eat on campus! With the multitude of options offered here at UH Manoa, choosing may be difficult. 
 
-Food Now enables users to log in with their UH emails and:
-* Search for eateries based on a list of categories
+Food Now enables students to log in with their UH emails and:
+* Find Food Vendors on and around UH Campus.
 * Locate eateries with a top-down view of the UH Manoa campus highlighting the location of the desired eatery.
-* Provide a star rating for an eatery
-* If given enough time, users will be able to discover menu items at specific eateries
-  * View the price of each item
-  * Add items to a "cart" that tracks all items added and the total cost before arrival
+* View a sample menu from the Vendor.
+
+Food Now enables vendors to create a vendor store front and:
+* Be visible to a large studnet body.
+* Provide important business information to students.
+* Connect and find other vendors on the campus.
 
 <!--
 ## Mock-Ups 
@@ -246,6 +248,8 @@ Areas for Improvement:
 - Time Estimates: Providing estimated food acquiring times would enhance transparency and allow users to plan their meals effectively.
 - Restaurant Reviews: Increasing the number of reviews and ratings for restaurants would offer valuable insights to users and facilitate informed decisions.
 - Social Features: Implementing social features like order sharing with friends would foster a sense of community and encourage social interaction among users.
+
+Selected Quote: "Nice looking website, it could use some extra functions but it looks like it does what it says it does well. All pages look good." - Trinity N.
 
 Additional Comments:
 
