@@ -173,7 +173,7 @@ This page will allow you too add users. The input fields will change depending o
 
 ## M3 Board
 
-![M2](/PDF-Folder/m3-board.png)
+![M3](/PDF-Folder/m3_final_board.png)
 
 ## Backend Design
 
