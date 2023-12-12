@@ -8,6 +8,7 @@
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
 * [Backend Design](#backend-design)
+* [Community Feedback](#community-feedback)
 * [Team](#team)
 * [Deployment](#deployment)
 * [Continuous Integration](#continuous-integration)
@@ -229,6 +230,10 @@ Example menuItem:
 	image: String (optional);
 }
 ```
+
+## Community Feedback
+
+
 
 ## Team
 
